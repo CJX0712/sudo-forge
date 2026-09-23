@@ -1,5 +1,12 @@
 # ✦ SudoForge · 种子数独锻造炉
 
+<p align="center">
+  <a href="https://github.com/CJX0712/sudo-forge/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/sudo-forge/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/sudo-forge/releases"><img src="https://img.shields.io/github/v/release/CJX0712/sudo-forge?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/sudo-forge/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/sudo-forge" alt="license"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 一个**单文件、零依赖、可离线运行**的数独工具：输入任意文字或数字作为「种子」，
 确定性地生成一道数独谜题，并保证**唯一解**；内置求解器与实时校验。
 
